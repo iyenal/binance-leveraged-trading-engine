@@ -13,6 +13,15 @@ Based on the excellent python-binance for orders execution (API management) and 
 - Status restoration with %store
 - Currently used
 
+## Issues and pull requests
+
+Keep issues only for issues, and pull requests for worthy and optimized improvements.
+I can't warranty that I'll read them in a timely manner.
+
+## Donate
+
+Donations are always appreciated, feel free to send BNBs:
+
 ## Advices and warranty notices
 
 No warranty is given and no responsability is held by the usage of this script.
@@ -20,4 +29,4 @@ Trading is a risky endeavor, an environnement full of sharks, making it a financ
 Leveraging your positions on volatile markets such as crypto can lead to serious losses.
 
 Always backtest roughfully and keep consistent your strategies, trade responsibly whan you can afford to lose.
-https://www.youtube.com/watch?v=xUVz4nRmxn4
+You wouldn't like to end up with no money https://www.youtube.com/watch?v=xUVz4nRmxn4
