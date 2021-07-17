@@ -20,3 +20,4 @@ Trading is a risky endeavor, an environnement full of sharks, making it a financ
 Leveraging your positions on volatile markets such as crypto can lead to serious losses.
 
 Always backtest roughfully and keep consistent your strategies, trade responsibly whan you can afford to lose.
+https://www.youtube.com/watch?v=xUVz4nRmxn4
