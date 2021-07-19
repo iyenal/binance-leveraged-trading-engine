@@ -15,14 +15,12 @@ Based on the excellent python-binance for orders execution (API management) and 
 
 ### Support for fees and quantity to use (Important!)
 
-**Specific to Binance**
 Binance trading fees management being weird on isolated margin balances, it's recommended to let some tokens on the ALT sub-balance so fees can be correctly covered.
 Binance will first take fees from these tokens, then if BNB discount is enabled, take them from your **Spot BNB Balance** and refund them in the next hour in your according pair's isolated margin balance.
 So the script especially for shorts will not margin sell immediately all your ALT balance, but will borrow what asked.
 In resume, your isolated margin balance should look like this:
 
-Pair's balance for a 100% quantity in ALT unit
---------------------
+Pair's balance for a **100% quantity in ALT unit**:
 ALT: ~10% for fees
 BTC/USDT: 100% for trade + ~10% for fees
 
