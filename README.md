@@ -35,7 +35,7 @@ In case of ALTS, if the balance isn't enough for the position and it's a LONG fo
 
 ### Protection against calls overrun
 
-Every pair position can only be opened if one isn't yet, and can only be closed if one has not been opened with the correct types.
+Every pair position can only be opened if one isn't yet, and can only be closed if one has been opened with the according position.
 Eg. closing a SHORT trade on BTCUSDT is only posible if a SHORT trade has been previously opened on BTCUSDT (and so the margin sell order has been succesfully executed, otherwise exceptions handling would be triggered, and that wouldn't allow the trade opening registration).
 
 ### Status retrieval
@@ -49,9 +49,14 @@ If the environnement doesn't support %store magic, according lines can be commen
 Keep issues only for issues, and pull requests for worthy and optimized improvements.
 I can't warranty that I'll read them in a timely manner.
 
+### Licence
+
+![WDDTH](https://en.meming.world/images/en/thumb/a/a3/We_Don%27t_Do_That_Here.jpg/300px-We_Don%27t_Do_That_Here.jpg)
+
 ## Donate
 
 Donations are always appreciated, feel free to send BNBs:
+BEP20(BSC) 0x74da82bdafa31baf6814b7d322a46a781c80626b
 
 ## Advices and warranty notices
 
