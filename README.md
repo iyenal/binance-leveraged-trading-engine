@@ -53,7 +53,7 @@ I can't warranty that I'll read them in a timely manner.
 
 ![WDDTH](https://en.meming.world/images/en/thumb/a/a3/We_Don%27t_Do_That_Here.jpg/300px-We_Don%27t_Do_That_Here.jpg)
 
-And, may programming and that awful language which's python burn in hell. You welcome.
+May programming burn in hell.
 
 ## Donate
 
