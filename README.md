@@ -31,7 +31,7 @@ Isolated margin balance:
 **ALT (BUSD): 10 BUSD
 USDT: 110 USDT**
 Resume: For every position it'll take 100 BUSD as qty, and so use 100 USDT on the USDT balance as 1 BUSD ~= 1 USDT (simple example as these are stable coins).
-In case of ALTS, if the balance isn't enough for the position and it's a LONG for example, it'll borrow what's needed to make the trade (eg 0.5 BUSD ~= 1 USDT so it'll borrow 100 USDT to make a 100 BUSD position) hence the leveraged nature. **Be cautionous with liquidation risks that put in danger your collateral.**
+In case of ALTS, if the balance isn't enough for the position and it's a LONG for example, it'll borrow what's needed to make the trade (eg 0.5 BUSD ~= 1 USDT so it'll borrow 100 USDT to make a 100 BUSD position) hence the leveraged nature. **Be cautious with liquidation risks that put in danger your collateral.**
 
 ### Protection against calls overrun
 
