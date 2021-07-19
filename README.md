@@ -1,4 +1,4 @@
-# IDTS Blitztrader - (Binance) Leveraged Trading Engine
+# IDTS IDTO Blitztrader - (Binance) Leveraged Trading Engine
 For algorithmic trading
 
 Python engine for trading on cross and isolated leveraged margin - focus on operability and optimisation for fast (<100ms) and reliable trades.
