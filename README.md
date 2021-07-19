@@ -57,6 +57,7 @@ I can't warranty that I'll read them in a timely manner.
 
 Donations are always appreciated, feel free to send BNBs:
 BEP20(BSC) 0x74da82bdafa31baf6814b7d322a46a781c80626b
+You can too use my Binance referral code: 
 
 ## Advices and warranty notices
 
