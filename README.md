@@ -66,5 +66,5 @@ No warranty is given and no responsability is held by the usage of this script.
 Trading is a risky activity, in an environnement full of sharks, making it a financial activity.
 Leveraging your positions on volatile markets such as crypto can lead to serious losses.
 
-Always backtest roughfully and keep consistent your strategies, trade responsibly whan you can afford to lose.
+Always backtest roughfully and keep consistent your strategies, trade responsibly what you can afford to lose.
 You wouldn't like to end up with no money https://www.youtube.com/watch?v=xUVz4nRmxn4
