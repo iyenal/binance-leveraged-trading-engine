@@ -1,7 +1,11 @@
-# IDTS IDTO Blitztrader - (Binance) Leveraged Trading Engine
+# IDTS Blitztrader - (Binance) Leveraged Trading Engine
+
+### Original Development: March 2021
+### Sanitized repository and released for public
+
 Optimised for algorithmic and quant trading
 
-Python engine for trading on cross and isolated leveraged margin - focus on operability and optimisation for fast (<100ms) and reliable trades.
+Python engine for trading on cross and isolated leveraged margin - focus on operability and optimisation for fast (<100ms) and reliable trades, and a Heroku server for watching and following Futures activity.
 Based on the excellent python-binance for orders execution (API management) and used in production environnement.
 
 ## Features
@@ -47,21 +51,17 @@ If the environnement doesn't support %store magic, according lines can be commen
 ### Issues and pull requests
 
 Keep issues only for issues, and pull requests for worthy and optimized improvements.
-I can't warranty that I'll read them in a timely manner.
-
-### Licence
-
-![WDDTH](https://en.meming.world/images/en/thumb/a/a3/We_Don%27t_Do_That_Here.jpg/300px-We_Don%27t_Do_That_Here.jpg)
-
-May programming burn in hell.
+I can't guarantee that I'll read them in a timely manner.
 
 ## Donate
 
 Donations are always appreciated, feel free to send BNBs:
 BEP20(BSC) 0x74da82bdafa31baf6814b7d322a46a781c80626b
-You can too use my Binance referral code: 
 
 ## Advices and warranty notices
+
+Information: Experience shown that location for best performance in executing orders is in Japan. Using a local AWS server to run the server can be recommended.
+Experience shown too that BTC winter may be ending as of this commit date, after filling some CME gaps.
 
 No warranty is given and no responsability is held by the usage of this script.
 Trading is a risky activity, in an environnement full of sharks, making it a financial activity.
