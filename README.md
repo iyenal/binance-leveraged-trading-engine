@@ -15,7 +15,6 @@ Based on the excellent python-binance for orders execution (API management) and 
 - Efficient API calls
 - Protection against overruns
 - Status restoration with %store
-- Currently used
 
 ### Support for fees and quantity to use (Important!)
 
@@ -56,7 +55,7 @@ I can't guarantee that I'll read them in a timely manner.
 ## Donate
 
 Donations are always appreciated, feel free to send BNBs:
-BEP20(BSC) 0x74da82bdafa31baf6814b7d322a46a781c80626b
+BEP20(BSC) 0x8bd0ef251c0782a80c97d19b5d078684940ca5c0
 
 ## Advices and warranty notices
 
