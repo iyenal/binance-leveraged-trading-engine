@@ -1,4 +1,4 @@
-# IDTS Blitztrader - (Binance) Leveraged Trading Engine
+# IDTS Blitztrader - (Binance) Leveraged Trading Infra
 
 ### Original Development: March 2021
 ### Sanitized repository and released for public
@@ -60,7 +60,7 @@ BEP20(BSC) 0x74da82bdafa31baf6814b7d322a46a781c80626b
 
 ## Advices and warranty notices
 
-Information: Experience shown that location for best performance in executing orders is in Japan. Using a local AWS server to run the server can be recommended.
+Information: Experience shown that location for best performance (~20ms) in executing orders is in Tokyo, Japan. Using a local AWS server (ap-northeast1) to run the server can be recommended.
 Experience shown too that BTC winter may be ending as of this commit date, after filling some CME gaps.
 
 No warranty is given and no responsability is held by the usage of this script.
